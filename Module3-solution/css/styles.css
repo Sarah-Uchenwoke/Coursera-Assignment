@@ -1,0 +1,53 @@
+body{
+    background-color:chocolate;
+    
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#header-navbar{
+
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    height: 100px;
+    margin: 0;
+}
+header h1{
+    padding-left: 30px;
+}
+
+#navbarNavDropdown{
+    height: 150px;
+    width: 100%;
+    border: 2px solid black;
+    margin:auto;
+    background-color: burlywood;
+    position: relative;
+    top: 44px;
+}
+    
+#buttn :hover{
+    background-color:blueviolet;
+}
+
+#buttn :active{
+    background-color: blueviolet;
+}
+
+li{
+    text-align: center;
+    font-size: medium;
+}
+ 
+hr{
+    color: black;
+}
+
+h2{
+    padding: 30px 0px;
+}
+section{
+    background-color:cornflowerblue;
+    height: 100%;
+}
