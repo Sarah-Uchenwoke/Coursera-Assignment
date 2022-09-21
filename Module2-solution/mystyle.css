@@ -11,10 +11,14 @@ h1{
 }
 
 div{
- margin-left: 50px;
+ margin-left: 30px;
  margin-right: 20px;
  margin-bottom: 20px;
+<<<<<<< HEAD
  width: 450px;
+=======
+ width: 400px;
+>>>>>>> 358ab0d042326094324d59758c05e3f3cf88bac3
  padding-left: 10px;
  padding-right: 10px;
  padding-top: 30px;
